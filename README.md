@@ -2,7 +2,7 @@
 Energy Consumption Anaylsis using Power BI provides an in-depth analysis of energy consumption and costs across multiple cities and energy types (Water, Electricity, and Gas) and a clear and actionable view of energy consumption trends, enabling better decision-making.
 ## Project Overview:
 The project analyzes energy consumption patterns and costs across cities, tracking trends from 2016 to 2019 for electricity, water, and gas. It highlights cost variations by city and energy type, with a total cost of $15.84 million and 210 million units consumed. Visuals include city-wise cost distribution, a time-series analysis, and a donut chart showing electricity (88.49%), water (10.29%), and gas (1.21%) consumption. The interactive dashboard features city filters, year selection, and section navigation. Designed for usability, it has a dark theme with peach-coloured visuals and intuitive data visualizations like bar charts, line graphs, and donut charts.
-## Key Insights & Features of the Energy Consumption Analysis Dashboard:
+## Key Insights & Features:
 1.	Total Energy Cost & Consumption:
 o	Total Cost: 15.84M
 o	Total Units Consumed: 210M
