@@ -28,5 +28,20 @@ o	Time-Series Graph: Shows energy costs over time (2016-2019) for electricity, g
 o	Donut Chart: Visualizes the proportion of different energy types consumed.
 4.	Navigation Panel:
 o	Sidebar buttons for switching between Dashboard, Water, Electricity, and Gas sections for detailed analysis.
+## Project Highlights:
+Objective: Analyze energy consumption trends and cost variations across cities.
+Scope: Tracks electricity, water, and gas consumption from 2016 to 2019.
+Key Metrics: $15.84M total cost, 210M total units consumed.
+City Focus: Highlights costs in New York, Chicago, Los Angeles, Phoenix, and Houston.
+Data Insights: Time-series analysis of cost trends and a consumption breakdown (Electricity: 88.49%, Water: 10.29%, Gas: 1.21%).
+Interactive Features: City filter, year selection, and section navigation.
+Visual Design: Dark-themed dashboard with peach-colored fonts and intuitive data visualizations (bar charts, line graphs, and donut charts).
+## Results:
+✅ Energy costs have risen from 2016 to 2019 across all energy types.
+✅ Water consumption dominates total usage, while electricity and gas play smaller roles.
+✅ Buildings show even distribution of costs, suggesting balanced energy use.
+✅ Interactive filters enable users to explore data by year, city, and energy type.
+
+
 
 
